@@ -23,7 +23,7 @@ if($type=='join'){
 							)
 						);
 }
-else if($pesan_datang=='1')
+else if($pesan_datang=='1' || $pesan_datang=='23')
 	{
 		$get_sub = array();
 		$aa =   array(
